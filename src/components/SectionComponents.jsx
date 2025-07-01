@@ -3,7 +3,7 @@ import React from 'react'
 const SectionComponents = () => {
   return (
     <section>
-        <h1></h1>
+        <h1>Hello Lyhour</h1>
     </section>
   )
 }
